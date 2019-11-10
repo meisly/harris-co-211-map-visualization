@@ -12,6 +12,7 @@ class Form extends React.Component {
             age50:false,
             age60:false,
             age70:false,
+            age80:false,
             age80above:false,
             isFemale:false,
             isMale: false
