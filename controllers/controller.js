@@ -15,10 +15,10 @@ module.exports = {
       }})
       .then(data => console.log(data))
   },
-  findByCol: function(req, res) {
-    db.harris211
-      .findAll({where: })
-      .then(dbModel => res.json(dbModel))
-      .catch(err => res.status(422).json(err));
-  },
+  // findByCol: function(req, res) {
+  //   db.harris211
+  //     .findAll({where: })
+  //     .then(dbModel => res.json(dbModel))
+  //     .catch(err => res.status(422).json(err));
+  // },
 };
