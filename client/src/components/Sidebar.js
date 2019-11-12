@@ -103,6 +103,7 @@ function Sidebar(props) {
                             /> age 80 and above
                     </label>
                     <br/>  
+                    <button>Submit</button>
                 </form>
             </>
         )
