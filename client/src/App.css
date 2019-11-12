@@ -1,3 +1,18 @@
+body {
+  text-align: center;
+}
+form {
+  text-align: start;
+  width: 15%;
+  height: 100vh;
+  background-color: yellowgreen;
+  border-right: 3px solid black;
+  
+}
+h1{
+  text-align: left;
+}
+
 .App {
   text-align: center;
 }

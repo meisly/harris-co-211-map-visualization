@@ -1,5 +1,6 @@
 import React from 'react'
 import Sidebar from './Sidebar'
+import PowerSearch from './PowerSearch';
 
 class Form extends React.Component {
     constructor(){
